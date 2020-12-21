@@ -10,7 +10,7 @@ gem 'dentaku'
 gem 'puma'
 gem 'sinatra'
 gem 'dotenv'
-gem 'celluloid-io'
+gem 'async-websocket', '~>0.8.0'
 
 
 group :development, :test do
