@@ -4,14 +4,12 @@ source "https://rubygems.org"
 
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
-# gem "rails"
 gem 'slack-ruby-bot'
-gem 'dentaku'
 gem 'puma'
 gem 'sinatra'
 gem 'dotenv'
 gem 'async-websocket', '~>0.8.0'
-
+gem 'pry'
 
 group :development, :test do
   gem 'rake'
