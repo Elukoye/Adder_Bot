@@ -34,7 +34,7 @@ To get a local copy up and running follow these simple example steps.
 ### Install
 ## To run the project locally
 > Clone the repository into the project folder using : git clone [copy this link](https://github.com/Elukoye/Adder_Bot.git)
-> Open the project folder in your favourite text editor
+> Open the project folder in your favourite text editor<br/>
 > Run bundle install to set up the gems needed for the project
 > Run _foreman start_ command on a terminal to start the project
 
