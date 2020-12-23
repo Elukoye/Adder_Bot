@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Demo walkthrough video](https://www.loom.com/share/a59295f205e74d7a97f2a88d5021f59e)
 
 
 ## Getting Started
