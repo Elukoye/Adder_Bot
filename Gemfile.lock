@@ -43,12 +43,13 @@ GEM
     mustermann (1.1.1)
       ruby2_keywords (~> 0.0.1)
     nio4r (2.5.4)
+    passenger (6.0.7)
+      rack
+      rake (>= 0.8.1)
     pry (0.13.1)
       coderay (~> 1.1)
       method_source (~> 1.0)
     public_suffix (4.0.6)
-    puma (5.1.1)
-      nio4r (~> 2.0)
     rack (2.2.3)
     rack-protection (2.1.0)
       rack
@@ -105,8 +106,8 @@ DEPENDENCIES
   async-websocket (~> 0.8.0)
   dotenv
   foreman
+  passenger
   pry
-  puma
   rack-test
   rake
   rspec
