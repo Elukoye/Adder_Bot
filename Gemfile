@@ -15,3 +15,10 @@ group :development, :test do
   gem 'rake'
   gem 'foreman'
 end
+
+group :development, :test do
+  gem 'rack-test'
+  gem 'rspec'
+  gem 'vcr'
+  gem 'webmock'
+end
