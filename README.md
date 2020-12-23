@@ -23,6 +23,7 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 > Have Ruby Installed <br/>
 > Have a slack workspaces that you can add the Bot to<br/>
+> Set up the Bot App through slack [Follow this link](https://api.slack.com/)
 
 ### Setup
 > Make a project folder to clone the project into in your local machine
