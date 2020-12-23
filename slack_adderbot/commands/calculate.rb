@@ -13,11 +13,7 @@ module AdderBot
           client.say(channel: data.channel, text: response)
         else
           client.say(channel: data.channel, text: "Sorry, I didn't understand that. I only add numbers in this format. eg: 5+6 or 6+3")
-        end
-        
-      
-
-        
+        end        
        end
     end
   end
