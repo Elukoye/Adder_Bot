@@ -56,7 +56,7 @@ To get a local copy up and running follow these simple example steps.
 👤 **Author1**
 
 - Github: [@githubhandle](https://github.com/Elukoye)
-- Linkedin: [linkedin](https://linkedin.com/eelukoye)
+- Linkedin: [linkedin](https://www.linkedin.com/in/eelukoye/)
 
 
 ## 🤝 Contributing
